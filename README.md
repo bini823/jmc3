@@ -1,5 +1,6 @@
 <html>
 <body>
+<table>
 <tr>
 <td>Page title</td> 
 <td>Jesus And Mary Collage University of Delhi New Delhi</td>
@@ -10,6 +11,11 @@ its is run by sisters of CMJ Corporation. it provides various course like B.com,
 <td>DU,NACC,Course, Sports</td>
 <td>Robots.txt</td>
 <td>page not found</td>
+<td>Underscore</td>
+<td>notice-tengym-equipment.pdf</td>
+<td>Inline</td>
+<td>214 Inlines</td>
 </tr>
+</table>
 </body>
 </html>
