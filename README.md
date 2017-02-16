@@ -16,6 +16,8 @@ its is run by sisters of CMJ Corporation. it provides various course like B.com,
 <tr><td>Inline</td>
 <td>214 Inlines</td>
 </tr>
+<tr><td>html page size</td>
+<td>11.17kb</td></tr>
 </table>
 </body>
 </html>
